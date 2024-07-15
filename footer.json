@@ -1,0 +1,28 @@
+[
+  {
+    "title": "YATA",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://www.yata.cc"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/yata-network"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://x.com/Yata_Network"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/yatanetwork"
+      }
+    ]
+  }
+]
